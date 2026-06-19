@@ -1,0 +1,8 @@
+yt-dlp
+demucs
+librosa
+numpy
+nudenet
+insightface
+onnxruntime
+opencv-python
